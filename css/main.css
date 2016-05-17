@@ -1,0 +1,85 @@
+
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url("/images/cover2.gif");
+  height: 360px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 64px;  
+  font-family: 'Pacifico', cursive;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-family: "open sans", sans-serif;
+  font-size: 20px;
+  color: #000000;
+}
+
+
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important; 
+  height: 100%;
+  margin: 0 auto -100px; 
+}
+
+
+.content h2 {
+  font-family: 'Pacifico', cursive;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+
+.content h4 {
+  font-family: "open sans", sans-serif;
+  font-size: 18px;
+  font-style: italic;
+
+}
+
+.content p {
+  font-family: "open sans", sans-serif;
+  font-size: 14px;
+  
+}
+
+.content a {
+  color: #00b0ff;
+}
+
+.footer, .push {
+  height: 100px; 
+  text-align: center;
+  font-size: 10px;
+}

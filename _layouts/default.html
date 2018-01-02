@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111774045-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-111774045-1');
+    </script>
+    <meta charset="UTF-8">
+    <title>{{ site.description }}</title>
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+    <link href="../css/styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <div class="sidebar">
+    <!-- <a href="/" class="logo">
+      <img src="/otter-pop/img/logo.jpg">
+    </a> -->
+
+    <ul class="nav">
+      <div class="nav-inner">
+        <li><a href="/"><span class="icon home"></span>home</a></li>
+        <li><a href="/blog"><span class="icon doc"></span>blog</a></li>
+        <li><a href="/about"><span class="icon info"></span>about</a></li>
+        <!-- <li><a href="/projects"><span class="icon code"></span>projects</a></li> -->
+        <!-- <li><a href="http://spamthe.net"><span class="icon link"></span>links</a></li> -->
+        <li><a href="http://github.com/rmrice"><span class="icon github"></span>github</a></li>
+        <li><a href="http://twitter.com/rrrrrice"><span class="icon twitter"></span>twitter</a></li>
+      </div>
+    </ul>
+  </div>
+  <div class="wrapper">
+    <!--<h1><marquee scrolldelay="60">otter pop - the world's greatest jekyll theme</marquee></h1>-->
+    <!-- <h1>otter pop - the world's greatest jekyll theme</h1> -->
+
+    {{ content }}
+  </div>
+</body>
+</html>

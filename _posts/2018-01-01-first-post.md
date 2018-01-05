@@ -6,11 +6,11 @@ tags: personal, lists
 ---
 
 ### 2018 goals
-I am behind the philosophy that the first day of the new year is a new day, but so are the other 364 days of the year, and you don't necessarily need the year to change in order for you to better yourself. That said, I would describe myself as goal-oriented, and what better time to set goals than now :wink:
+I am behind the philosophy that the first day of the new year is a new day, but so are the other 364 days of the year (_everyday is a new day_...cue the [P.O.D.](https://www.youtube.com/watch?v=qxAcx8jyqoY)), and you don't necessarily need the year to change in order for you to better yourself. That said, I would describe myself as goal-oriented, and what better time to set goals than now. :wink:
 
 These are some things I hope to achieve in 2018, though they don't all necessarily have a timeline:
 
-- Front squat > 200# (I have a list of all my fitness goals on my phone... I'm not going to list all of them here but I'll let this one be representative since this would be huge for me)
+- Front squat > 200# **
 - Compete in an oly meet
 - Write more
 - Read more
@@ -21,5 +21,7 @@ These are some things I hope to achieve in 2018, though they don't all necessari
 - Be friendlier; talk to more strangers
 - Enjoy myself more
 - Make my damn bed
+
+** _I have a list of all my fitness goals on my phone... I'm not going to list all of them here but I'll let this one be representative since this would be huge for me_
 
 In general, I hope to continue to grow as a person, make new experiences, and gain knowledge and strength :sparkling_heart:

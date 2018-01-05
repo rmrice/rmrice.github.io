@@ -18,6 +18,11 @@ html {
   height: 100%;
 }
 
+img.emoji {
+  display: inline !important;
+  margin-bottom: 0px !important;
+}
+
 .nav {
   margin: 40px 0 0;
   padding: 0 0 0 48px;

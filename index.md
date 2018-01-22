@@ -10,8 +10,4 @@ layout: default
 
 
 
-
-
-Give me a bit to figure out what I want to put here.
-
 I took down my portfolio of maps. If you want to see them, let me know!

@@ -1,6 +1,6 @@
 html {
   font-size: 16px;
-  font-family: monospace;
+  font-family: sans-serif;
 }
 
 .sidebar {
@@ -48,6 +48,12 @@ body {
 
 a {
     color: inherit;
+}
+
+pre {
+    font-family: monospace;
+    background: aliceblue;
+    padding: 10px;
 }
 
 .wrapper a {

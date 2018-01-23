@@ -66,7 +66,7 @@ Another solution to the above might be to organize your step definition differen
 
 One of our projects had a separate geocoding service that was used to test certain UI elements. This test would fail whenever the geocoder was down, even if nothing was wrong with the code. I suppose this was good to know, but it also slowed down development since we would hold PRs until all tests passed.
 
-### :cucumber: It's low level
+### :cucumber: It's extremely high level
 
 [Cucumber is intended for non-developers](https://8thlight.com/blog/kevin-liddle/2013/09/18/a-case-against-cucumber.html), which may be the reason why I liked it so much when I was first learning how to be a developer. Features are not test scripts. If developers are the ones reading and writing your UI tests, why use something as disjointed and menial as cucumber? Can you just write a capybara/rspec script that ultimately manipulates the browser in the same way?
 

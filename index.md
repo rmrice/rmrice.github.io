@@ -6,8 +6,5 @@ layout: default
 ---
 
 # Rebecca Rice
-### _Cartography, software engineering, open source, problem solving_
 
-
-
-I took down my portfolio of maps. If you want to see them, let me know!
+I'm a Software Engineer at [Mapbox](https://mapbox.com). I work on the Maps API team so I get to make sure all of our map ingredients work :cookie:. My background is in cartography :earth_americas:.

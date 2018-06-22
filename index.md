@@ -7,4 +7,4 @@ layout: default
 
 # Rebecca Rice
 
-I'm a Software Engineer at [Mapbox](https://mapbox.com). I work on the Maps API team so I get to make sure all of our map ingredients work :cookie:. My background is in cartography :earth_americas:.
+Hi! :wave: I'm a Software Engineer at [Mapbox](https://mapbox.com). I work on the Maps API team so I help make sure all of our map ingredients work :cookie:. My background is in cartography :earth_americas:.

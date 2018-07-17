@@ -7,4 +7,4 @@ layout: default
 
 # Rebecca Rice
 
-Hi! :wave: I'm a Software Engineer at [Mapbox](https://mapbox.com). I work on the Maps API team so I help make sure all of our map ingredients work :cookie:. My background is in cartography :earth_americas:.
+Hi! :wave: I'm a Software Engineer at [Mapbox](https://mapbox.com), specializing in javascript, node.js, Docker, API services, and frontend development. My background is in geography, GIS, and cartography :earth_americas:. Based in DC.

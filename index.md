@@ -7,4 +7,4 @@ layout: default
 
 # rebecca rice | _she/her_ | software engineer
 
-Hi! :wave: I'm a Software Engineer at [Mapbox](https://mapbox.com), specializing in javascript, node.js, Docker, API services, and frontend development. My background is in geography, GIS, and cartography :earth_americas:. Based in DC.
+Hi! I'm a Software Engineer at [Mapbox](https://mapbox.com), specializing in javascript, node.js, Docker, APIs, and frontend development. My background is in geography, GIS, and cartography. Based in DC.
